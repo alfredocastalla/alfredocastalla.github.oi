@@ -1,5 +1,5 @@
 const sampleData = {
-    labels: ['Monday', 'Tuesday', 'friday', 'saturday', 'sunday', ''],
+    labels: ['Monday', 'Tues','Wens','Thu', 'fri', 'satur', 'sun',],
     datasets: [{
       label: 'DAYS OF USING GADGETS',
       data: [100, 59, 80, 81, 56, 55, 68, 23, 10, 100, 60, 90],
