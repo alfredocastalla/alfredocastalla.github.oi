@@ -1,8 +1,8 @@
 const sampleData = {
-    labels: ['Mon', 'Tue','Wed','Thu', 'Fri', 'Sat', 'Sun'],
+    labels: ['FOODS', 'WATER','ALLOWANCE',,'ELECTRICITY','SCHOOL PROJECT', 'BOARDING-HOUSE'],
     datasets: [{
-      label: 'DAYS OF USING GADGETS',
-      data: [2HRS, 4HRS, 5HRS, 6HRS, 8HRS, 12HRS, 14HRS, 16HRS, 20HRS, 21HRS, 22HRS, 24HRS],
+      label: 'DAILY COSTS AS A BOARDING-HOUSE STUDENT',
+      data: [100, 200, 300, 400, 500, 600, 800, 1000, 1,500, 2,000, 2,500],
       backgroundColor: 'rgba(145, 222, 255)',
       borderColor: 'rgba(63, 188, 242)',
       borderWidth: 1
