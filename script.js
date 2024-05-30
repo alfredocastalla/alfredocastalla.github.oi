@@ -2,7 +2,7 @@ const sampleData = {
     labels: ['FOODS', 'WATER','ALLOWANCE',,'ELECTRICITY','SCHOOL PROJECT', 'BOARDING-HOUSE'],
     datasets: [{
       label: 'DAILY COSTS AS A BOARDING-HOUSE STUDENT',
-      data: [100, 200, 300, 400, 500, 600, 800, 1000, 1,500, 2,000, 2,500],
+      data: [100, 200, 300, 400, 500, 600, 800, 1000, 1,500, 2,000,],
       backgroundColor: 'rgba(145, 222, 255)',
       borderColor: 'rgba(63, 188, 242)',
       borderWidth: 1
