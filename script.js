@@ -2,7 +2,7 @@ const sampleData = {
     labels: ['Mon', 'Tue','Wed','Thu', 'Fri', 'Sat', 'Sun'],
     datasets: [{
       label: 'DAYS OF USING GADGETS',
-      data: [100, 59, 80, 81, 56, 55, 68, 23, 10, 100, 60, 90],
+      data: [2HRS, 4HRS, 5HRS, 6HRS, 8HRS, 12HRS, 14HRS, 16HRS, 20HRS, 21HRS, 22HRS, 24HRS],
       backgroundColor: 'rgba(145, 222, 255)',
       borderColor: 'rgba(63, 188, 242)',
       borderWidth: 1
