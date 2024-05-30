@@ -1,5 +1,5 @@
 const sampleData = {
-    labels: ['FOODS', 'WATER','ALLOWANCE',,'ELECTRICITY','SCHOOL PROJECT', 'BOARDING-HOUSE'],
+    labels: ['FOODS', 'WATER','ALLOWANCE','ELECTRICITY', 'BOARDING-HOUSE'],
     datasets: [{
       label: 'BOARDING-HOUSE COSTS',
       data: [100, 200, 300, 400, 500, 600, 800, 1000, 1,500, 2,000,],
